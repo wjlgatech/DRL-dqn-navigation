@@ -74,11 +74,11 @@ The code consists of the following modules
 
 ```
 Navigation.ipynb - the main notebook
-dqnAgent.py - defines the Agent that is to be trained
-model.py - defines the dqn model 
-dqnAgent_Trained_Model.pth - is the final trained dqn network
+dqn_agent.py - defines the Agent that is to be trained
+checkpoint.pth - is the final trained dqn network
 train.py - train the dqn agent
 test.py - test the performance of the trained agent
+Navigation_Report.ipynb - the project report
 ```
 
 ## Results
