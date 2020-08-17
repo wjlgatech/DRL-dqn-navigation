@@ -83,3 +83,5 @@ Navigation_Report.ipynb - the project report
 
 ## Results
 
+DNQ is able to solve the environment in 2866 episodes with average Score: 13.05
+
